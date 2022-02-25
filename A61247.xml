@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached March 6, 1675, in the Cathedral Church of S. Peter in York, before the Right Honourable Sir Timothy Littleton, Kt., and Vere Bertie, Esquire, His Majesties judges of assize for the Northern Circuit by William Stainforth ...</title>
+            <author>Stainforth, William, d. 1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61247</idno>
+            <idno type="STC">Wing S5172</idno>
+            <idno type="STC">ESTC R13542</idno>
+            <idno type="EEBO-CITATION">13586954</idno>
+            <idno type="OCLC">ocm 13586954</idno>
+            <idno type="VID">100571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 851:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached March 6, 1675, in the Cathedral Church of S. Peter in York, before the Right Honourable Sir Timothy Littleton, Kt., and Vere Bertie, Esquire, His Majesties judges of assize for the Northern Circuit by William Stainforth ...</title>
+                  <author>Stainforth, William, d. 1713.</author>
+               </titleStmt>
+               <extent>[4], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston ... and R. Lambert ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: A sermon preached before the Right Honourable Sir Timothy Littleton.</note>
+                  <note>Running title: A sermon preached before Sir Timothy Littleton.</note>
+                  <note>Advertisement on p. [2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXI, 3 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100571:1"/>
+            <pb facs="tcp:100571:1" rendition="simple:additions"/>
+            <p>A SERMON Preached <hi>March</hi> 6. 1675.</p>
+            <p>In the Cathedral Church of S. <hi>Peter</hi> in YORK; Before the Right Honourable Sir <hi>TIMOTHY LITTLETON,</hi> K<hi rend="sup">t</hi>. AND <hi>VERE BERTIE,</hi> Eſquire, His Majeſties Judges of ASSIZE for the <hi>Northern Circuit.</hi>
+            </p>
+            <p>By <hi>William Stainforth,</hi> M. A. Rector of St. <hi>Mary Biſhop-hill</hi> the Elder in the CITY of <hi>YORK.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royſton,</hi> Bookſeller to his moſt Sacred Majeſty, and <hi>R. Lambert</hi> Bookſeller in <hi>York,</hi> 1676.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100571:2"/>
+            <pb facs="tcp:100571:2"/>
+            <head>To the Right Worſhipful Sir <hi>EDMUND JENNINGS,</hi> High Sheriff of the County of <hi>YORK.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was by your Command that this <hi>SERMON</hi> was firſt Preached, and now Printed; and I have very good grounds to hope, that ſo urgent a Reaſon of its Publication will ſecure me againſt the cenſure and imputation of Vain-glory, and alſo recommend the Diſcourſe, and en<g ref="char:EOLhyphen"/>title it to a fairer Acceptance; for it is no inconſiderable advantage to have the Approbation of ſo diſcerning, and yet ſo unbiaſſed a Judgement, as you are known to excel in. And as nothing but this
+<pb facs="tcp:100571:3"/> conſideration could have tempted me to expoſe any thing of mine to ſo publick a View; ſo ſeeing this is expoſed, I hum<g ref="char:EOLhyphen"/>bly beg that you would continue to it the Honour and Aid of your Protection: and that you would be pleas'd to accept of it as a ſincere, though ſmall, acknow<g ref="char:EOLhyphen"/>ledgement of thoſe undeſerved favours, which you have beſtowed upon,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your moſt humble and moſt obedient Servant; Will. Stainforth.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100571:3"/>
+            <head>A SERMON Preached before the Right Honourable Sir <hi>Timothy Littleton,</hi> Knight; <hi>and Vere Bertie,</hi> Eſquire, His Majeſties Judges of <hi>Aſſize</hi> for the <hi>Northern Circuit.</hi>
+            </head>
+            <epigraph>
+               <bibl>Prov. XXI. 3.</bibl>
+               <q>To do Juſtice and Judgement is more acceptable to the Lord than ſacrifice.</q>
+            </epigraph>
+            <p>AS the <hi>Jews</hi> were a carnal and fleſhly People, ſo were they chiefly intent on, and mindful of thoſe Duties, that were moſt conſiſtent with their earthly Luſts and Inclinations; and becauſe God had ſe<g ref="char:EOLhyphen"/>parated them from the reſt of the World, and taken them into his immediate Care and
+<pb n="2" facs="tcp:100571:4"/> Government, and had given them particu<g ref="char:EOLhyphen"/>lar Laws and Rules for the celebration of his publick Worſhip, they fondly imagin'd, that God would be indulgent to them, in an ex<g ref="char:EOLhyphen"/>traordinary manner: and that if they did but rigorouſly obſerve the outward Rites and Ceremonies of Religion, they ſhould by that means attone for all their other Guilts, and render God propitious and favourable to them. And this conceit took ſuch deep Roots in their hearts, and prevail'd ſo gene<g ref="char:EOLhyphen"/>rally amongſt them, that though never any people was more regardleſs of the eſſential and fundamental Duties of Religion, nor leſs concern'd for inward Purity and Holi<g ref="char:EOLhyphen"/>neſs of mind, yet never was any more ſtrict<g ref="char:EOLhyphen"/>ly obſervant of the external and formal parts of Devotion. Thus they would faſt often, and pray much, and think no ſacrifices too chargeable or expenſive for them; and yet at the ſame time they would gripe and oppreſs their Neighbours, offer all kinds of injuſtice and fraud to one another, cheriſh in their hearts evil Luſts and foul deſires, and offend God by plain, open, and direct Immoralities. This God often complains of by his Pro<g ref="char:EOLhyphen"/>phets,
+<pb n="3" facs="tcp:100571:4"/> and tells them, that for this reaſon he abhorr'd and deteſted all their religious For<g ref="char:EOLhyphen"/>malities and coſtly Sacrifices; and if they would not reform and repent, he would withdraw his favour and protection from them, and pour down the fierceſt inſtances of his Wrath and Indignation upon them: for that which he delighted moſt in, was the Purity and Holineſs of their minds, and the obſervance of ſuch Duties, as tended moſt to the intereſt and preſervation of Societies, and the mutual benefits and advantages of one another. And for this very Reaſon <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> tells them, <hi>To do Juſtice and Judgement is more acceptable to the Lord than Sacrifice.</hi>
+            </p>
+            <p>The Text is one entire Sentence or Propo<g ref="char:EOLhyphen"/>ſition, and hath within it ſelf a compleat ſenſe (as the reſt of the Proverbs of this Book for the moſt part have) without either any ne<g ref="char:EOLhyphen"/>ceſſary dependence upon any thing going before, or reference to any thing coming after. And the words are plain, obvious, and accommodated to the moſt ordinary under<g ref="char:EOLhyphen"/>ſtandings. So that as I need not ſpend any time in ſearching into the Contexture of the
+<pb n="4" facs="tcp:100571:5"/> words, ſo neither in examining the explica<g ref="char:EOLhyphen"/>tion of ſeveral Commentators and Expoſi<g ref="char:EOLhyphen"/>tors upon them. And therefore I ſhall onely further endeavour to confirm the Propoſition deduced from the Text,</p>
+            <list>
+               <item>1. From other places of Holy Scripture.</item>
+               <item>2. From the different nature of theſe two Duties.</item>
+               <item>3. From the different ends of them.</item>
+               <item>4. From the different effects of them.</item>
+            </list>
+            <p>I. <hi>From other places of Holy Scripture,</hi> wherein we find God rejecting and abhorring their Sacrifices, if they were not accompani<g ref="char:EOLhyphen"/>ed with a real Repentance, and inward ſin<g ref="char:EOLhyphen"/>cerity of mind, and the outward works of Mercy and Juſtice. For though God did ſolemnly enjoyn the <hi>Jewes</hi> the uſe of Sacrifi<g ref="char:EOLhyphen"/>ces, adopted them by his expreſs Command into their Religion and publick Worſhip, and gave them particular Rules and Canons for their performance and obſervation; yet he was ſo far from intending that they ſhould be either their only Righteouſneſs, or the principal part of it, that he never accepted
+<pb n="5" facs="tcp:100571:5"/> of them, when they were not in conjunction with other Duties. And for this reaſon, the <hi>Sacrifices of the wicked</hi> are ſaid to be an <hi>abo<g ref="char:EOLhyphen"/>mination to the Lord,</hi> eſpecially when he brings it with a wicked mind, <hi>Prov.</hi> 21. 27. and ſuch are all the ſacrifices of unjuſt and unrighteous men, who have no regard to the known Laws of Equity, and make no dif<g ref="char:EOLhyphen"/>ference betwixt what is profitable, and what is juſt; but having rooted out of their minds all ſenſe of moral Honeſty, make uſe of all the Arts of Cunning, and the force of Power to defraud and oppreſs, to undermine and lay hold on the Rights and Properties of o<g ref="char:EOLhyphen"/>thers. And accordingly <hi>Micah</hi> 6. 6, 7. we have the Prophet putting this Queſtion, <hi>Wherewith ſhall I come before the Lord, and bow my ſelf before the moſt High? ſhall I come before him with burnt Offerings, with Calves of a year old? will the Lord be pleaſed with thou<g ref="char:EOLhyphen"/>ſands of Rams, and with ten thouſand Rivers of Oyl? Shall I give my firſt-born for my tranſ<g ref="char:EOLhyphen"/>greſſion, the fruit of my Body for the ſin of my Soul?</hi> The Anſwer to all this is in the Verſe following, <hi>Viz. He hath ſhewed thee, O man, what is good, and what doth the Lord require
+<pb n="6" facs="tcp:100571:6"/> of thee, but to do juſtly, love mercy, and walk humbly with thy God?</hi> From whence it is plain, that though God had commanded ſa<g ref="char:EOLhyphen"/>crifices as the principal part of his external Worſhip, yet he had all along the chiefeſt re<g ref="char:EOLhyphen"/>gard to the Duties of Juſtice, Mercy and Hu<g ref="char:EOLhyphen"/>mility. Theſe were the moſt eſpecial Ob<g ref="char:EOLhyphen"/>jects of his Delight and Pleaſure; and with<g ref="char:EOLhyphen"/>out the Union and Combination of theſe Ver<g ref="char:EOLhyphen"/>tues Sacrifice was an Abomination to him. Sacrifice without Juſtice was as ungrateful as Robbery; Sacrifice without Mercy, as pro<g ref="char:EOLhyphen"/>voking as Murder; and Sacrifice without Humility, as affronting as Hypocriſie. The wickedneſs of the man ſhed a guilt into the Offering; and a Sacrifice of Atonement, when it was brought by an unjuſt hand, was ſo o<g ref="char:EOLhyphen"/>dious and offenſive to God, that it ſtood in need of another for its expiation. And therefore God ſpeaks to all unjuſt and un<g ref="char:EOLhyphen"/>righteous men, <hi>To what purpoſe is the multi<g ref="char:EOLhyphen"/>tude of your Sacrifices? Bring no more vain Oblations to me; Incenſe is an Abomination to me,</hi> Iſa. I. 11. From all which places, and ſeveral others which I forbear to mention, it is evident, that God rejected Sacrifices,
+<pb n="7" facs="tcp:100571:6"/> though they were Duties of his own appoint<g ref="char:EOLhyphen"/>ment, though they were eſtabliſhed parts of his publick worſhip, if they were not ac<g ref="char:EOLhyphen"/>companied with Juſtice and other moral Du<g ref="char:EOLhyphen"/>ties, and conſequently that to do Juſtice is more acceptable to the Lord than Sacrifice.</p>
+            <p>II. To do Juſtice and Judgement is more acceptable to the Lord than Sacrifice is evi<g ref="char:EOLhyphen"/>dent <hi>from the different Nature of theſe two Du<g ref="char:EOLhyphen"/>ties,</hi> and the different Grounds, from whence ariſeth our Obligation to them. For Sacrifice was grounded upon a poſitive Precept and Inſtitution: It had its riſe from the meer will and good pleaſure of God Almighty; ſo that if Mankind had not received ſome expreſs Revelation concerning the neceſsity of this Duty, in all likelihood they would never of themſelves have found out any reaſon for its Obſervation: But Juſtice has its foundation in the Nature of God; and if God had never delivered to Mankind any promulgate Law concerning Juſtice, yet the very natural Noti<g ref="char:EOLhyphen"/>on we have of God and his Eſſential Juſtice would have ſufficiently inſtructed us in our indiſpenſable Obligations to its practide:
+<pb n="8" facs="tcp:100571:7"/> and both theſe I ſhall endeavour to make appear.</p>
+            <p>1. Sacrifices were grounded upon a po<g ref="char:EOLhyphen"/>ſitive Precept, and the Reaſon of their Ob<g ref="char:EOLhyphen"/>ligation was deriv'd from the Expreſs and Revealed Will of God. It's true indeed, that all Nations that have had any ſenſe of God, and own'd his Being by any publick Wor<g ref="char:EOLhyphen"/>ſhip and ſolemn Acknowledgement, have made uſe of Sacrifices for this very end and purpoſe; and from this univerſal con<g ref="char:EOLhyphen"/>ſent in practice ſome have inferr'd Sacrifi<g ref="char:EOLhyphen"/>ces to be a Natural Duty, and that it was founded in ſome common principle in Rea<g ref="char:EOLhyphen"/>ſon. So <hi>Paulus Burgenſis: In qualibet aetate, &amp; apud quaſlibet hominum Nationes, ſemper fuit aliqua Sacrificiorum Oblatio; Quod au<g ref="char:EOLhyphen"/>tem eſt apud omnes, naturale eſt.</hi> In all Ages (ſaith he) and among all Nations, there was always ſome kind of Sacrifices. Now that which was ſo univerſal, muſt of neceſsity ſpring from ſome common principle in Nature. Thus far indeed I confeſs ſacri<g ref="char:EOLhyphen"/>ficing Natural, as it was a ſolemn and ſen<g ref="char:EOLhyphen"/>ſible Ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Worſhip, becauſe Nature which
+<pb n="9" facs="tcp:100571:7"/> teacheth us to worſhip God in publick, doth alſo inſtruct us to expreſs this publick Wor<g ref="char:EOLhyphen"/>ſhip by ſome external Rites and ſenſible In<g ref="char:EOLhyphen"/>ſtances: But that Nature doth ſo point out and determine the kind, as to teach us to do this by Sacrifices, which conſiſts in the deſtruction of living and the conſumption of uſeful things, none I preſume will ever be able to make out any tolerable proof or evidence to confirm it. For to uſe the words of a late Learned Prelate, in his excellent Diſcourſe concerning Natural Religion: <hi>When it is well conſider'd</hi> (ſaith he) <hi>what little ground there is to perſwade a man, left to his own free Reaſon, that God ſhould be pleaſed with the killing and burning of Beaſts, or with the deſtroying of ſuch things by fire, of which better uſe might be made, if they were diſpos'd of ſome other way; I ſay when it is well conſi<g ref="char:EOLhyphen"/>dered what little reaſon there is to induce ſuch a man to believe, that the killing or burning of Beaſts or Birds, or any other thing uſeful to mankind, ſhould of it ſelf be a proper and na<g ref="char:EOLhyphen"/>tural means to teſtifie our ſubjection to God, or to be uſed by way of expiation from ſin; it will rather appear probable, that the original of this
+<pb n="10" facs="tcp:100571:8"/> practice was from Inſtitution, and that our firſt Parents were by particular Revelation inſtru<g ref="char:EOLhyphen"/>cted in this way of Worſhip, from whom it was deliver'd down to their ſucceſſive Generations by verbal Tradition; and by this means was continu'd in thoſe Families who departed from the Church, and proved Heathen in the firſt Ages of the World; amongst whom this Tra<g ref="char:EOLhyphen"/>dition was in courſe of time, for want of care and frequent renewals, corrupted with many humane ſuperinducements, according to the</hi> genius <hi>or intereſts of ſeveral Times or Nations.</hi>
+            </p>
+            <p>And indeed if we conſult meerly natural Light, we ſhall diſcover no neceſſary Foun<g ref="char:EOLhyphen"/>dations in that for Sacrifices; for that does not at all teach us, that the ſlaying of living Creatures, or the conſumption of any uſeful thing by Fire ſhould be any way pleaſing or grateful to God; or that he ſhould ac<g ref="char:EOLhyphen"/>cept of it as an acknowledgement of our de<g ref="char:EOLhyphen"/>pendence and ſubjection, or as a ſatisfaction for ſin and diſobedience. For what are Blood &amp; Smoak to the God of Spirits? or what com<g ref="char:EOLhyphen"/>penſation can the ſlaying of my Beaſts make to Divine Juſtice for not mortifying my luſts? Can the Blood of a Bull, which is a cor<g ref="char:EOLhyphen"/>poreal
+<pb n="11" facs="tcp:100571:8"/> thing, cleanſe the guilt of my Soul, which is a moral defect? Or does the Im<g ref="char:EOLhyphen"/>mortal God ſtand in need of Meat and Drink? Some of the Heathens indeed fan<g ref="char:EOLhyphen"/>cied, that their Gods were delighted and re<g ref="char:EOLhyphen"/>freſhed with the ſteams and vapours, that aſcended from the Sacrifices; and therefore they uſed to call their Sacrifices, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Food of God; but the reaſon of this miſtake, might be, as I humbly conceive, ei<g ref="char:EOLhyphen"/>ther Firſt, the malice and cunning of the Devil, who becauſe he could not wholly root out of mens minds the belief of a God, did therefore endeavour to adulterate the true Notion of Him; that ſo men having their Souls poſſeſs'd with falſe conceptions and repreſentations of the Deity, they might the more eaſily miſtake both the right man<g ref="char:EOLhyphen"/>ner and the true Object of their Worſhip; and by that means be more readily drawn to give and appropriate it to the Devil. Or Secondly, men finding that Sacrifice had been the conſtant and general way of Wor<g ref="char:EOLhyphen"/>ſhipping God; and underſtanding neither the Original nor the true Reaſon of its Pra<g ref="char:EOLhyphen"/>ctice;
+<pb n="12" facs="tcp:100571:9"/> they might fondly imagine (ſince they knew no better) their Luſts having darken<g ref="char:EOLhyphen"/>ed their underſtandings) that God might ſome way or other be pleaſed and recreated with the Fumes that riſe from the Altar. But this was a ridiculous miſtake and folly, altogether repugnant to the perfections of the Divine Nature, and the Sentiments of ſober Reaſon, and is ſufficient to convince us, that Sacrifice was a Duty not directed by the light of Nature, but that it muſt be deriv'd from ſome Poſitive Precept and In<g ref="char:EOLhyphen"/>ſtitution.</p>
+            <p>But now Juſtice is a Vertue, that has its foundation in the Nature of God: For as the Notion of God does include in it all poſ<g ref="char:EOLhyphen"/>ſible and conceivable perfection, ſo from thence do we diſcern Juſtice to be one of his moſt Eſſential Attributes. For it would be unreaſonable to imagine, that he who is immutably good and perfect, could fall un<g ref="char:EOLhyphen"/>der any Temptation of doing any thing, that would not ſuit with the ſtricteſt Rules of Juſtice and Equity. And therefore the
+<pb n="13" facs="tcp:100571:9"/> Heathens, who had no knowledge of God, but what was conveyed unto them by the Light of natural Reaſon, reckoned Juſtice amongſt the fundamental Properties of the Divine Nature; and <hi>Plato</hi> affirmed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>That cannot be ſaid in any kind or reſpect whatſoever to be unjuſt, but ſo far as is poſſible to be moſt juſt.</hi> And that this was the general belief amongſt them may appear by that univerſal Cuſtom of Atteſting God by ſolemn Oaths, where<g ref="char:EOLhyphen"/>by amongſt other of his Attributes, they particularly own'd that of his Juſtice, and that he would certainly avenge all fraud and unrighteouſneſs. And what was thus di<g ref="char:EOLhyphen"/>ctated by the Light of Nature, is fully con<g ref="char:EOLhyphen"/>firmed unto us by Gods Revelations in his own Word; wherein he has made ſuch ample diſcoveries of his own Nature, and of his Dealings with men, that we muſt needs conclude, that Juſtice is one of the moral perfections of the Divine Nature, and that God may as soon ceaſe to be, as fail to be juſt. <hi>Shall not the Judge of all the world</hi>
+               <note place="margin">Gen. 16. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.</note> 
+               <hi>do right?</hi> ſayes <hi>Abraham.</hi> Which Queſtion
+<pb n="14" facs="tcp:100571:10"/> is an emphatical Affirmation that he will do ſo. And the Apoſtle St. <hi>Paul</hi> rejecteth all ſuſpicions to the contrary, with an <hi>Abſit. What ſhall we ſay then? Is there unrighteouſ<g ref="char:EOLhyphen"/>neſs</hi>
+               <note place="margin">Rom. 9. 14.</note> 
+               <hi>with God? God forbid!</hi> And for this Reaſon Princes and Governours, Magiſtrates and Judges, who are Gods Vicegerents and Repreſentatives, and to whom he has intru<g ref="char:EOLhyphen"/>ſted the care and government of the People committed to their charge, are ſaid to<note place="margin">Pſal. 82. 6.</note> be <hi>Gods.</hi> And Gods they are not ſo much in reſpect of the ſacredneſs of their Chara<g ref="char:EOLhyphen"/>cter, and greatneſs of their Power, as in the due exerciſe of their Authority and regular Adminiſtration of Juſtice. For when con<g ref="char:EOLhyphen"/>ſcience is their Councellor, and the Law their Rule, and the publick Good their End; when they defend the Innocent and puniſh the Criminal, and diſtribute Juſtice without the mixtures of Paſsion, and the corruptions of Partiality, then do they ſhine with Divinity indeed, and they reſemble God not only in the participations of his Greatneſs, but alſo in the likeneſs of his Integrity, which adorns their Office, and
+<pb n="15" facs="tcp:100571:10"/> juſtifies their Titles more than all their Furrs and Robes and Enſigns of Honour. Zeale for Juſtice and orderly execution of it, is that which Deifie; Magiſtrates, exalts their Stations, raiſeth them above the com<g ref="char:EOLhyphen"/>mon level of Mankind, ſets a glory and a luſtre upon their perſons, makes them ſit Objects of our Homage and Reverence; and we may juſtly affirm of ſuch, that <hi>Gods are come down to us in the likeneſs of men.</hi>
+            </p>
+            <p>But then on the other ſide, when Magi<g ref="char:EOLhyphen"/>ſtrates imploy their Power to ends contrary to thoſe for which it was given them, and make uſe of Gods Authority in a way repu<g ref="char:EOLhyphen"/>gnant to his Will (<hi>i. e.</hi>) when they neglect the Works of Mercy and Juſtice, they are no more Gods but Idols, nay, the worſt ſort of Idols, which being made to repreſent, do yet foully reproach the divine Power. Idols did I ſay? perhaps you'll think them worſe, when I tell you, that the Devil is ſaid <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to <hi>invert the Or<g ref="char:EOLhyphen"/>der of things,</hi> to change their natural re<g ref="char:EOLhyphen"/>ſpects and Relations, to diſgrace Vertue and
+<pb n="16" facs="tcp:100571:11"/> countenance Vice, to put ſhame upon Inte<g ref="char:EOLhyphen"/>grity and ſecurity upon Sin, to puniſh the Innocent and favour the Guilty. And then whom ſuch Magiſtrates are like, that are ſe<g ref="char:EOLhyphen"/>duc'd by his Temptations, and corrupted by his Example, you'll find no great diffi<g ref="char:EOLhyphen"/>culty in making a conjecture; for it is im<g ref="char:EOLhyphen"/>poſsible they ſhould any way reſemble God, becauſe Juſtice is eſſential to his Nature, and can no more be ſeparated from him, than he can be divided from himſelf.</p>
+            <p>And muſt it not hence follow, that Ju<g ref="char:EOLhyphen"/>ſtice which is ſo eſſential to Gods Nature, muſt be more acceptable to him than Sacri<g ref="char:EOLhyphen"/>fice which depended meerly upon his Will? Is not God beſt pleas'd with himſelf, having all poſsible and conceivable Perfections and Excellencies within himſelf? And muſt not he then in an eſpecial manner be delighted with thoſe Duties, that are moſt like and agreeable to himſelf? that bear the Impreſs of his own Nature, the Character and Signa<g ref="char:EOLhyphen"/>ture of his own Being? and is not Juſtice of this ſort? does it not make us like God,
+<pb n="17" facs="tcp:100571:11"/> and partakers of the Divine Nature? and doe not Magiſtrates, who rule by his Au<g ref="char:EOLhyphen"/>thority, acquire by it a more exalted kind of Divinity, become Gods to the Publick Weale, and ſubordinate Saviours to the whole Kingdom? And this is ſufficient to prove, that <hi>to do Juſtice and Judgement is more acceptable to the Lord than Sacrifice.</hi>
+            </p>
+            <p>III. To do Juſtice and Judgement is more acceptable to the Lord than Sacrifice is evi<g ref="char:EOLhyphen"/>dent <hi>from the different ends of theſe two Duties.</hi> For Sacrifice was not enjoyn'd for its own ſake; but Juſtice always was, and is, and ever will be.</p>
+            <p>Firſt, Sacrifice was not enjoyn'd for its own ſake; For,</p>
+            <p>1. Sacrifices were ordained to be Types of the Sacrifice of Chriſt, who was to be of<g ref="char:EOLhyphen"/>fered up in the Fulneſs of Time upon the Croſs; they were inſtituted to be Figures and Shadows (ſilent Propheſies) of the death of the <hi>Meſſiah;</hi> and the vertue they had of expiating legal Guilt, was a ſuitable Type
+<pb n="18" facs="tcp:100571:12"/> of the infinite efficacy and meritoriouſneſs of the Blood of the Son of God, which was a ſufficient Expiation of the Moral and Eter<g ref="char:EOLhyphen"/>nal Guilt of the Sins of all Mankind. This is clear from ſeveral places of the New Teſta<g ref="char:EOLhyphen"/>ment, and more eſpecially from St. <hi>Paul</hi>'s Epiſtle to the <hi>Hebrews.</hi>
+            </p>
+            <p>2. Sacrifices were enjoyned to be as a Guard and Security for other Duties, to be as a Hedge and a Fence for the Moral Pre<g ref="char:EOLhyphen"/>cepts, and eſpecially to defend the <hi>Jewes</hi> againſt Idolatry: for the <hi>Jewes</hi> were an ex<g ref="char:EOLhyphen"/>treamly vain and carnal people, and very prone to be in love with, and to follow the ſuperſtitions and idolatrous practices of the <hi>Gentiles;</hi> and therefore rather than God would ſuffer them to be enticed, and drawn away with the Vanities of the Heathens, he gratifies their childiſh humour by inſtitu<g ref="char:EOLhyphen"/>ting a pompous way of Worſhip that was a<g ref="char:EOLhyphen"/>greeable to their Infant-State and preſent weakneſs, and commands them to offer Sa<g ref="char:EOLhyphen"/>crifice to himſelf the true God, leſt other<g ref="char:EOLhyphen"/>wiſe through the example of the <hi>Gentiles</hi>
+               <pb n="19" facs="tcp:100571:12"/> they ſhould have been tempted to have done it to Idols. And accordingly <hi>Juſtin Martyr</hi> ſaith particularly of the Sacrifices, <hi>That the end of them was to keep the Jewes from Idola<g ref="char:EOLhyphen"/>try:</hi> and this alſo <hi>Trypho</hi> acknowledgeth, though he was a <hi>Jew,</hi> and one that vigo<g ref="char:EOLhyphen"/>rouſly aſſerted the Law, and mightily glo<g ref="char:EOLhyphen"/>ried in it. And <hi>Tertullian</hi> is of the ſame opi<g ref="char:EOLhyphen"/>nion concerning the end of their Inſtitution, for he ſaith, <hi>Populum pronum Idololatriae</hi>
+               <note place="margin">Adv. Marcion. l. 2.</note> 
+               <hi>ejuſmodi officiis Religioni ſuae voluit aſtrin<g ref="char:EOLhyphen"/>gere.</hi>
+            </p>
+            <p>And this ſhews that Sacrifices were not commanded for themſelves, and that the goodneſs of this Duty was not Natural and Intrinſecal, but Relative and External, and depended meerly upon the ſucceſs that it had in promoting Duties of a higher Na<g ref="char:EOLhyphen"/>ture, and eſpecially in ſecuring the <hi>Jewes</hi> againſt Idolatry.</p>
+            <p>But now Juſtice always was, and is, and ever will be enjoined for its own ſake: It has a natural Goodneſs and Beauty in it, which
+<pb n="20" facs="tcp:100571:13"/> at all Times, and in all Ages recommends it to the practice of Mankind. Juſtice is one of thoſe Duties, that is to be beloved <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Ariſtotle</hi> ſpeaks) <hi>for its own ſelf:</hi> It does not ſtand in need of any borrowed luſtre to make us enamoured with it; but its own proper goodneſs and intrinſique worth ſuf<g ref="char:EOLhyphen"/>ficiently beſpeaks our Obligations to it, and ſhews that we cannot be unjuſt without cea<g ref="char:EOLhyphen"/>ſing in ſome degree to be men: For Juſtice is a Duty that ariſeth from the Moral frame and conſtitution of our Souls, and we muſt offer violence to our ſelves, if we be not juſt to others. He that does to another, what he would not have done to himſelf, affronts the Principles of his own Nature, and un<g ref="char:EOLhyphen"/>ſettles his own Peace by doing wrong to his Neighbour: for Conſcience will recoile, when it finds its indiſputable Maxime con<g ref="char:EOLhyphen"/>tradicted by a contrary practice; and a man creates a mighty uneaſineſs and diſorder in his own mind, when he ſuffers the Fleſh to reſiſt the inbred Laws of his Spirit, and the Obligations to Juſtice to be run down by the Temptations of Revenge or Malice, Par<g ref="char:EOLhyphen"/>tiality
+<pb n="21" facs="tcp:100571:13"/> or Paſsion, Covetouſneſs or Cowardiſe. Nay, by this means a man does not only di<g ref="char:EOLhyphen"/>ſturb the peace and tranquillity of his own mind, but he does more or leſs unhinge the publick Quiet: for the ſecurity of Govern<g ref="char:EOLhyphen"/>ment, with the intereſt of all its members, doth ſo much depend upon the practice and diſtribution of Juſtice, that all contrary Acts do naturally tend to its diſſolution. For wherein lies the difference betwixt a ſtate of abſolute Liberty, and a ſtate of Go<g ref="char:EOLhyphen"/>vernment? but that in the one men live ac<g ref="char:EOLhyphen"/>cording to their boundleſs Luſts and Paſsi<g ref="char:EOLhyphen"/>ons, but in the other they are directed by Laws, and reſtrain'd by Penalties: In the one unbridled Will and Appetite is the Prin<g ref="char:EOLhyphen"/>ciple by which they Act; in the other equi<g ref="char:EOLhyphen"/>table Laws and prudent Inſtitutions are the Meaſures and Rules of their converſations: The one is a ſtate of Violence and Fraud, becauſe all things are expos'd to an Arbitrary Force and Power; the other a ſtate of Peace and Settlement, becauſe mens Rights are fix<g ref="char:EOLhyphen"/>ed and Properties determin'd and ſecur'd a<g ref="char:EOLhyphen"/>gainſt all unjuſt attempts and invaſions. So
+<pb n="22" facs="tcp:100571:14"/> that Injuſtice, which introduceth a licen<g ref="char:EOLhyphen"/>tiouſneſs and wildneſs of living, weakens the Pillars and ſaps the Foundations of Go<g ref="char:EOLhyphen"/>vernment; and becauſe it contradicts the ends of Civil Society, and hinders all the bleſſed effects of it, men thereby become enemies to one another, exert all the ho<g ref="char:EOLhyphen"/>ſtilities of corrupt Nature and enraged Paſ<g ref="char:EOLhyphen"/>ſions, and ingage in a ſtate of War either to defend or retrieve their Rights.</p>
+            <p>And all this happens moſt certainly, when Magiſtrates and Judges, who by their Offi<g ref="char:EOLhyphen"/>ces are deſigned to be Miniſters of publick Juſtice, become violaters of it; for though private injuſtice does but weaken the Sinews of Government, yet publick Injuſtice does wholly unbind them; though private inju<g ref="char:EOLhyphen"/>ſtice is but as the removing a Pin out of a Building, yet publick injuſtice is as the ſub<g ref="char:EOLhyphen"/>verſion of the Foundation it ſelf. And as that mans caſe is deſperate, and his reco<g ref="char:EOLhyphen"/>very (without a miracle) impoſsible, whoſe Diſeaſe is grown to that height, that it maſters all its Remedies, and converts the
+<pb n="23" facs="tcp:100571:14"/> very Medicine into its own nouriſhment by aſsimilating it to its own Nature; ſo too it is a ſad but ſure Prognoſtick of the ruine and death of a State, when Magiſtrates, who ought to be Remedies of publick Evils, be<g ref="char:EOLhyphen"/>come patterns of Corruption; when the Tribunal, which ought to be a Sanctuary for Innocency, is made a retreat for Villany, and a ſhelter for Oppreſsion; when the Sword of Juſtice, which is deſign'd to heale the Wounds of the Commonwealth, has a keener edge ſet upon it only to make them wider. And therefore God, who well knew the fatal miſchiefs of ſuch a corrupt Mini<g ref="char:EOLhyphen"/>ſtry, when he form'd a Republick among the <hi>Jewes,</hi> and gather'd them into an holy Commonwealth (over which he himſelf did immediately preſide) he appointed ſuch Ru<g ref="char:EOLhyphen"/>lers under him, as were fill'd with a Spirit of Wiſdom and Courage, and inflamed with a Zeale for Juſtice; ſuch as <hi>Moſes</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſhuah,</hi> men that were furniſhed with all the excellent Graces and Qualities that are ne<g ref="char:EOLhyphen"/>ceſſary for executing the beſt Laws, or for being eminent Examples of them.</p>
+            <pb n="24" facs="tcp:100571:15"/>
+            <p>And as this may teach Magiſtrates how to behave themſelves in their publick Offices and Employments, ſo it may inſtruct all Corporations and leſſer Societies, by what meaſures they ought to be governed in the choice of their Magiſtrates and Re<g ref="char:EOLhyphen"/>preſentatives; for though your Votes are your own, yet you ought not to diſpoſe of them meerly as you pleaſe, not as your pri<g ref="char:EOLhyphen"/>vate piques and averſations, or particular Friendſhips and Intereſts ſhall ſuggeſt unto you; but with a ſerious regard had to the common Good and publick Welfare: for the Obligation that every man ows to the Publick, and the Relation that every pri<g ref="char:EOLhyphen"/>vate perſon ſtands in to the whole Commu<g ref="char:EOLhyphen"/>nity, makes it his Duty to promote, as far as in him lies; its ſettlement and ſecurity; and conſequently that he give his Voice for ſuch to be Magiſtrates and Repreſen<g ref="char:EOLhyphen"/>tatives, as he believes to be endued with Wiſdom and Courage, and acted by Prin<g ref="char:EOLhyphen"/>ciples of Loyalty, Juſtice, and Religion: For as Religion in general is the beſt Rea<g ref="char:EOLhyphen"/>ſon
+<pb n="25" facs="tcp:100571:15"/> of State, ſo Juſtice in particular does in a moſt effectual manner contribute to its growth and preſervation; and the univer<g ref="char:EOLhyphen"/>ſal practice of it in the private members, and the impartial diſtribution of it in the publick Miniſters is the ſtrength and orna<g ref="char:EOLhyphen"/>ment, the ſupport and beauty of Govern<g ref="char:EOLhyphen"/>ment, nay, ſo eſſential is Juſtice to the Eſtabliſhment and Intereſts of Society, that it is but to repeat an old Remarque, to tell you, that Thieves and Robbers think themſelves oblig'd to preſerve it among themſelves. Thoſe wicked Confederacies and Combinations (that are the Peſts of publick Weale) could not ſubſiſt without ſome ſeeming exerciſe of it among them<g ref="char:EOLhyphen"/>ſelves; nor would they be able to carry on their unjuſt Deſigns upon the Publick, except they were faithful to their unlawful Truſts, and juſt in the diviſion of their un<g ref="char:EOLhyphen"/>juſt Spoiles and Acquiſitions. So that all Societies in this reſpect have the ſame com<g ref="char:EOLhyphen"/>mon means of preſervation, and what Cement is to a Building, that is Juſtice to a State; it binds and knits all the
+<pb n="26" facs="tcp:100571:16"/> parts together, maintains the intireneſs of the Body, and keeps all its Members in a fixt condition and an eſtabliſhed Peace.</p>
+            <p>And this is ſufficient to prove, that whereas Sacrifices were commanded with a reſpect to other Duties, Juſtice alwayes was, and is, and ever will be enjoyned for its own ſake. And muſt not Juſtice then, which has its end in it ſelf, be far more grateful and acceptable to God, than Sacrifice, whoſe goodneſs was meerly rela<g ref="char:EOLhyphen"/>tive, and depended upon its ſubſervien<g ref="char:EOLhyphen"/>cy to other Duties? And though it be true, that among the <hi>Jewes</hi> Sacrifice was a Duty as well as Juſtice, and though all Duties, that have the Authority of God's will for their practice, are pleaſing to him; yet we muſt neceſſarily conclude, that thoſe Duties are moſt acceptable to God, that are founded upon the ſtrongeſt Rea<g ref="char:EOLhyphen"/>ſons, and that carry their Obligations not in their accidental reſpects and mutable Relations, but in their own natural good<g ref="char:EOLhyphen"/>neſs,
+<pb n="27" facs="tcp:100571:16"/> and unalterable Equity; and ſuch is Juſtice and not Sacrifice.</p>
+            <p>IV. That Juſtice is more acceptable to the Lord than Sacrifice is evident <hi>from the different effects of theſe two Duties.</hi> Now the effect of Sacrifices was the expiation of legal Guilt; for God who by his Poſitive Will had made Natural Pollutions, acci<g ref="char:EOLhyphen"/>dental Diſeaſes, the touching of a dead Body, &amp;c. criminal and penal; ordain'd that the Guilt contracted by thoſe wayes ſhould be aboliſhed by a Sacrifice, and the Offerer thereby reſtor'd to his legal Inno<g ref="char:EOLhyphen"/>cency and Priviledges: And though the Sacrifice both argued and expiated Guilt, yet had it no efficacy to Atone God's an<g ref="char:EOLhyphen"/>ger for ſins of a deeper Guilt and a pro<g ref="char:EOLhyphen"/>founder Malice; ſuch as were Idolatry, Murder, Adultery, &amp;c. for, for theſe no Sacri<g ref="char:EOLhyphen"/>fices were appointed. But we find it other<g ref="char:EOLhyphen"/>wiſe in the diſtribution of Juſtice. An im<g ref="char:EOLhyphen"/>partial Execution of that in Magiſtrates and Judges does not only put a ſtop to the growth and increaſe of ſin, which pro<g ref="char:EOLhyphen"/>vokes
+<pb n="28" facs="tcp:100571:17"/> Gods anger againſt a Nation, but it alſo appeaſeth the Wrath, and diſarms the Severity of God; and prevents the coming down of his dreadful Judgements upon a people for the moſt famous ſins already commited. A famous inſtance of this Truth we have among the <hi>Iſraelites,</hi> whom God had ſmitten with a moſt grievous Plague, becauſe they were guilty of two moſt grievous Sins, <hi>viz.</hi> Whoredome and Idolatry; and the Plague continued to devour till Juſtice was executed; but as ſoon as <hi>Phinehes</hi> acted by an extraordina<g ref="char:EOLhyphen"/>ry Spirit, and an extraordinary Zeal, nail'd the Adulterous Couple to the Ground, and made them publick Examples of Ju<g ref="char:EOLhyphen"/>ſtice, becauſe they had been ſo of ſin, God<note place="margin">Pſal. 106. 30.</note> withdrew his hand, and <hi>the Plague was ſtayed.</hi>
+            </p>
+            <p>And as this ſhews that Juſtice is more acceptable to the Lord than Sacrifices; ſo it may teach all Princes and Magi<g ref="char:EOLhyphen"/>ſtrates (if they have any regard to the Publick Weale and Proſperity of the Nati<g ref="char:EOLhyphen"/>on)
+<pb n="29" facs="tcp:100571:17"/> to put on Juſtice as a Robe, and Righ<g ref="char:EOLhyphen"/>teouſneſs as a Diadem, and to let all Of<g ref="char:EOLhyphen"/>fenders (of what Rank or Quality ſoever they are, either in reſpect of their Crimes or Perſons) feel the deſerved ſmart of their Rods, and the juſt ſeverity of their Laws. For as this is the End of their Commiſ<g ref="char:EOLhyphen"/>ſion, and the Reaſon of their Inſtitution, ſo they ſhall not only do good to their own Souls by ſuch a faithful diſcharge of their Duty, but they ſhall alſo prove excellent Inſtruments of Happineſs to the whole Kingdom, by delivering it from thoſe Judgements that either are already come, or that are approaching. St. <hi>Auſtin</hi> tells us, that the mighty Succeſs, and long Pro<g ref="char:EOLhyphen"/>ſperity of the <hi>Romans</hi> was a Reward gi<g ref="char:EOLhyphen"/>ven them by God for their eminent Ju<g ref="char:EOLhyphen"/>ſtice, Temperance, and other Vertues: and if we examine the Sacred Scriptures, we ſhall find no ſuch ſure Foundations of publick Peace and Proſperity, as the due adminiſtration of Juſtice and Judgement. <hi>Solomon</hi> the wiſeſt of Kings tells us, <hi>That if the wicked be taken from before the</hi>
+               <note place="margin">Prov. 25. 5.</note>
+               <pb n="30" facs="tcp:100571:18"/> 
+               <hi>King, his Throne ſhall be eſtabliſhed in Righ<g ref="char:EOLhyphen"/>teouſneſs;</hi>
+               <note place="margin">Prov. 29. 4.</note> That <hi>the King by Judgement e<g ref="char:EOLhyphen"/>ſtabliſheth</hi> 
+               <note place="margin">29. 2.</note> 
+               <hi>the Land;</hi> That <hi>all the people re<g ref="char:EOLhyphen"/>joyce, when the Righteous are in Authority;</hi>
+               <note place="margin">28. 2.</note> And <hi>by a man of Underſtanding the State of a Land is prolonged.</hi> And all this is true, not only upon the account of the natural tendency of the thing, but alſo of the Divine Favour and Benediction: it being the ordinary and uſual method of God's Providence, to bleſs and pro<g ref="char:EOLhyphen"/>ſper thoſe Nations, that have pious and upright Governours, and to curſe and puniſh thoſe, that have vitious and cor<g ref="char:EOLhyphen"/>rupt Rulers.</p>
+            <p>What Reaſon have we then to bleſs God, that live under ſo Excellent a Government, and ſo Juſt a Prince, that rather than Ju<g ref="char:EOLhyphen"/>ſtice ſhould not be adminiſtred, ſends his Judges to our own homes, that ſo Juſtice (like the Sun, the great Miniſter in Na<g ref="char:EOLhyphen"/>ture) may viſit all places, and influence all parts of the Nation with Light, Heat and Vigour? It was <hi>Darius</hi>'s complaint,
+<pb n="31" facs="tcp:100571:18"/> that his <hi>Empire was like a raw Bull-hide, Tread it down in one place, and it would riſe up in another;</hi> But God be praiſed, this Kingdom is ſubject to no ſuch incon<g ref="char:EOLhyphen"/>venience, becauſe Juſtice is ſent into all parts of the Land at the ſame time, and Judgement is alike adminiſtred in eve<g ref="char:EOLhyphen"/>ry County, and by the Equality of the Diſtribution all is kept in an even frame, order and compoſure.</p>
+            <p>And now what remains? but as we ought to be thankful for ſo great a Mer<g ref="char:EOLhyphen"/>cy, ſo we ought to pray to God to con<g ref="char:EOLhyphen"/>tinue it to us, and to beſeech him, who is King of Kings, and Lord of Lords, and the only Ruler of Princes, that all thoſe, who bear any part in the Rule and Go<g ref="char:EOLhyphen"/>vernment of theſe Nations, may have their Hearts warm'd with Zeal for Juſtice, and be ready upon all Occaſions, in de<g ref="char:EOLhyphen"/>ſpight of all Temptations to the contra<g ref="char:EOLhyphen"/>ry, to uſe their Power and Authority for the puniſhment of Evil Doers, and for the praiſe of them that Do Well.
+<pb n="32" facs="tcp:100571:19"/> Which God grant for Chriſt Jeſus ſake <hi>To whom with the Father and Holy Ghoſt be aſcribed all Might, Majeſty, Dominion, Praiſe and Thanksgiving now and for ever.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:100571:19"/>
+            <head>Lately Printed for <hi>Richard Royſton</hi> at the Angel in <hi>Amen-Corner.</hi>
+            </head>
+            <list>
+               <item>THE Eſtate of the <hi>Empire:</hi> Or, an Abridge<g ref="char:EOLhyphen"/>ment of the Laws and Government of <hi>Ger<g ref="char:EOLhyphen"/>many;</hi> Farther ſhewing what Condition the <hi>Em<g ref="char:EOLhyphen"/>pire</hi> was in, when the Peace was concluded at <hi>Munſter:</hi> Alſo the ſeveral Fights, Battels, and Deſolation of Cities during the War in that <hi>Em<g ref="char:EOLhyphen"/>pire:</hi> And alſo of the <hi>Golden Bull.</hi> In <hi>Octavo.</hi>
+               </item>
+               <item>The <hi>Sicilian Tyrant:</hi> Or, The <hi>Life</hi> and Death of <hi>AGATHOCLES:</hi> With ſome Reflections on our Modern Uſurpers. <hi>Octavo.</hi>
+               </item>
+               <item>The <hi>ROYAL MARTYR,</hi> and the Dutiful Subject. In two Sermons: By <hi>Gilbert Burnet.</hi> In <hi>Quarto.</hi>
+               </item>
+               <item>The <hi>Generoſity</hi> of <hi>Chriſtian Love:</hi> Delivered in a Sermon, by <hi>William Gould.</hi> Quarto.</item>
+               <item>The <hi>Witneſſes to Chriſtianity:</hi> By <hi>Sy. Patrick,</hi> D. D. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>Ductor Dubitantium:</hi> Or, Biſhop <hi>Taylors Caſes of Conſcience.</hi> The Fourth Edition. <hi>Folio.</hi>
+               </item>
+               <item>The <hi>Life</hi> and <hi>Death</hi> of K. <hi>CHARLES</hi> the Firſt: By <hi>R. Perenchief,</hi> D. D. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>A Modeſt Plea</hi> for the Church of <hi>ENGLAND.</hi> Octavo.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
